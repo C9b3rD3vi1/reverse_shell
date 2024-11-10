@@ -9,5 +9,4 @@ A simple shell for Remote code Execution that helped me exploit the book_store p
     
     Version: 1.0
 
-
 This path helped me transform and sharpen my hands on skills on Ethical Hacking, Penetration Testing, and Cybersecurity in general
