@@ -1,7 +1,7 @@
 # Exploit Title: Online Book Store 1.0 - Unauthenticated Remote Code Execution
 # Google Dork: N/A
 # Date: 2020-01-07
-# Exploit Author: 
+# Exploit Author: C9b3rD3vi1
 # Vendor Homepage: https://projectworlds.in/free-projects/php-projects/online-book-store-project-in-php/
 # Software Link: https://github.com/projectworlds32/online-book-store-project-in-php/archive/master.zip
 # Version: 1.0
